@@ -70,18 +70,31 @@ All datasets are cleaned, standardized, and merged using ISO country codes and t
 ##  Project Structure
 
 climate-mosquito-disease-analytics/
+
 │
+
 ├── notebooks/
+
 │ └── integration-merge-final.ipynb
+
 │
+
 ├── src/
+
 │ └── dashboard.py
+
 │
+
 ├── data/
+
 │ └── (sample or processed datasets)
+
 │
+
 ├── requirements.txt
+
 └── README.md
+
 
 ---
 
